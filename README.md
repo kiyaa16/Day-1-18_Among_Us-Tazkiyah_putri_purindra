@@ -15,3 +15,11 @@ Prompt engineering: prompt yang jelas dan berkonteks menghasilkan output AI yang
 Manfaatnya: performa AI lebih baik, bias dan respons ofensif berkurang, hasil lebih terkontrol dan bisa diprediksi, serta pengalaman pengguna lebih baik.
 Git vs GitHub: Git adalah version control lokal yang melacak perubahan file. GitHub adalah platform online untuk menyimpan repo Git dan berkolaborasi.
 Alur Git: working directory, staging area, lalu repository.
+
+Pendapat Pribadi tentang Day 1 Proyek Workshop
+
+Menurut saya, Day 1 Proyek Workshop ini bermanfaat karena materinya langsung berkaitan dengan kebutuhan mahasiswa TIK, terutama soal Git dan GitHub. Sebelumnya saya hanya tahu GitHub sebagai tempat menyimpan kode, tetapi sekarang saya paham bahwa Git dan GitHub itu berbeda: Git untuk melacak perubahan file secara lokal, sedangkan GitHub untuk menyimpan repository secara online dan berkolaborasi.
+
+Bagian yang paling saya pahami adalah alur kerja dasar Git, yaitu working directory, staging area, lalu repository, serta perintah commit dan push. Materi prompt engineering juga membuka wawasan saya bahwa hasil AI sangat bergantung pada seberapa jelas dan berkonteks prompt yang kita tulis.
+
+
